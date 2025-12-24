@@ -1,0 +1,9 @@
+Create a redemption rule:
+
+Go to Redemptions: Under Plan Configurations, open the Redemptions tab.
+
+Add rule: Click Add redemption rule. Name the rule and set the conversion rate (e.g., 10 points = ₹1).
+
+Set limits: Specify minimum and maximum redemption amounts if needed.
+
+Save: Click Save. This rule will be used whenever points are redeemed.

@@ -1,0 +1,11 @@
+Add a custom field:
+
+This overlaps with Getting Started but is also part of configuration:
+
+Open Custom fields: In Settings, choose Custom fields.
+
+Select module: Pick where the new field should appear.
+
+Add the field: Click Add custom field, choose the type (Text, Number, Date, etc.), give it a name and decide if it’s mandatory.
+
+Save: Click Save. The field will be available in that module.

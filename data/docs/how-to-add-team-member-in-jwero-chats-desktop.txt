@@ -1,0 +1,19 @@
+To add a new team member in Jwero Chats, follow these steps:
+
+Go to the Team Management page at https://chats.jwero.ai/settings/team-management and click on "Add Team Member."
+
+Set up the applicable access for the team member by clicking on the team member’s name to assign access.
+
+Choose the access level: Allow All, Certain Access, or Restrict entire access for particular sections of the platform.
+
+Note the user limits based on your plan:
+
+Up to 3 users (including admins) for the Jwero Chats Pro Plan
+
+Up to 5 users (including admins) for the Jwero Chats Plus Plan
+
+After adding the team member, the admin can assign contacts either manually or in bulk.
+
+Required information to add a team member includes: team member name (or common account name), email address, and contact number.
+
+Let me know if further help is needed!

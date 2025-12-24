@@ -1,0 +1,9 @@
+Pause or stop a drip campaign(detailed):
+
+Find the campaign: In Automations > Campaigns, locate the campaign you want to modify.
+
+Open actions: Click the three dots next to its name.
+
+Pause or disable: Select Pause to temporarily stop sending messages or Disable to stop the campaign permanently.
+
+Confirm: Check that the status has updated to Paused or Disabled.

@@ -1,0 +1,11 @@
+Send automatic birthday greetings:
+
+Open Triggers: In Automations, select Triggers.
+
+New trigger: Click New trigger and select Birthday.
+
+Choose channel and write message: Pick WhatsApp, Email or SMS and type a friendly birthday greeting using variables like {{First Name}}.
+
+Schedule and conditions: Set the time of day for the message and add conditions if it should only go to certain contacts.
+
+Create trigger: Click Create trigger. Messages will be sent automatically on each contact’s birthday.

@@ -1,0 +1,9 @@
+Edit a contact’s information:
+
+Find the contact: Search the Contacts list by name, email or phone number.
+
+Open their profile: Click the contact’s name to view their full record.
+
+Make changes: In the Personal Information tab, click the pencil icon next to the field you want to update (e.g., email, phone). Enter the new information and click Save.
+
+Repeat as needed: Update other fields the same way. Each change saves automatically.

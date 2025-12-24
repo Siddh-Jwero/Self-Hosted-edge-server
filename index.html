@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Jwero Support Local</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f7f7f8;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+
+    .chat-container {
+      flex: 1;
+      padding: 20px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+    }
+
+    .placeholder {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: #bbb;
+      font-size: 18px;
+      text-align: center;
+      pointer-events: none;
+      user-select: none;
+    }
+
+    .placeholder-icon {
+      font-size: 48px;
+      margin-bottom: 10px;
+    }
+
+    .message {
+      max-width: 80%;
+      padding: 12px 16px;
+      margin-bottom: 10px;
+      border-radius: 16px;
+      line-height: 1.4;
+      white-space: pre-wrap;
+    }
+
+    .user {
+      background: #dcf8c6;
+      align-self: flex-end;
+    }
+
+    .bot {
+      background: #ffffff;
+      align-self: flex-start;
+      border: 1px solid #ccc;
+    }
+
+    .input-container {
+      display: flex;
+      padding: 10px;
+      border-top: 1px solid #ddd;
+      background: #ffffff;
+    }
+
+    #queryInput {
+      flex: 1;
+      padding: 10px 14px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      font-size: 16px;
+    }
+
+    button {
+      margin-left: 10px;
+      padding: 10px 20px;
+      font-size: 16px;
+      background: #10a37f;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #0e8a6b;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="chat-container" id="chat">
+    <div class="placeholder" id="placeholder">
+      <center>
+        <div>Welcome to Jwero Support!</div>
+      </center>
+      
+    </div>
+  </div>
+
+  <div class="input-container">
+    <input id="queryInput" type="text" placeholder="Ask something..." />
+    <button onclick="sendMessage()">Send</button>
+  </div>
+
+  <script>
+    const chat = document.getElementById("chat");
+    const input = document.getElementById("queryInput");
+    const placeholder = document.getElementById("placeholder");
+
+    function togglePlaceholder() {
+      placeholder.style.display = chat.children.length > 1 ? "none" : "flex";
+    }
+
+    async function sendMessage() {
+      const query = input.value.trim();
+      if (!query) return;
+
+      appendMessage("user", query);
+      input.value = "";
+
+      try {
+        const response = await fetch("http://192.168.1.99:8080/ask", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json"
+          },
+          body: JSON.stringify({ query })
+        });
+
+        const data = await response.json();
+        const answer = data.answer || "No answer.";
+        appendMessage("bot", answer);
+      } catch (err) {
+        appendMessage("bot", "⚠️ Failed to fetch response.");
+        console.error(err);
+      }
+    }
+
+    function appendMessage(sender, text) {
+      const message = document.createElement("div");
+      message.className = `message ${sender}`;
+      message.textContent = text;
+      chat.appendChild(message);
+
+      
+
+      chat.scrollTop = chat.scrollHeight;
+      togglePlaceholder();
+    }
+
+    input.addEventListener("keydown", function (e) {
+      if (e.key === "Enter") sendMessage();
+    });
+
+    togglePlaceholder();
+  </script>
+
+</body>
+</html>

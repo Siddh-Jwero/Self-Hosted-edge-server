@@ -1,0 +1,9 @@
+Make an email template:
+
+Open Templates: In Settings, click Templates and choose the Email tab.
+
+Create template: Click Create template, name it and select a category.
+
+Write the email: Enter the subject line and body text. Use formatting tools and variables like {{First Name}}.
+
+Save: Click Save. The template is ready for use in broadcasts and campaigns.

@@ -1,0 +1,11 @@
+Upload contacts in bulk:
+
+Access bulk upload: In Contacts, click the arrow next to Add contact and choose Bulk upload.
+
+Use Jwero Sheets: A spreadsheet opens where you can type contact data directly or click Import to upload an Excel/CSV file.
+
+Import a file: If uploading, click Add File, select your spreadsheet and click Import. Make sure all team members or tags mentioned in the file already exist.
+
+Check your data: Review the rows for accuracy. Use the “Add number of rows” control to insert extra blank rows if typing manually.
+
+Sync to create contacts: Click Sync contacts to import the data. New contacts will be added to your list.

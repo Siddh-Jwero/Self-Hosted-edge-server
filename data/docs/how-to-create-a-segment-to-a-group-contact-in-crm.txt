@@ -1,0 +1,11 @@
+Create a segment to group contacts:
+
+Go to Segments: Click the Segments icon (target symbol) on the left to see existing segments.
+
+Start a new segment: Click New segment. Give your segment a name and choose Dynamic or Static.
+
+Set rules: Click Add criteria to select a field (such as Country or Total Purchase Amount), set a condition (equals, greater than, etc.) and enter a value.
+
+Add more conditions: Use Add criteria again and choose AND/OR to combine rules.
+
+Create the segment: Review the preview count and click Create segment. The segment will update automatically if it’s dynamic.

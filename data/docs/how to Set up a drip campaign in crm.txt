@@ -1,0 +1,11 @@
+Set up a drip campaign:
+
+Navigate to Campaigns: Under Automations, click Campaigns.
+
+Create campaign: Click New campaign. Name the campaign, choose the audience segment and provide a description.
+
+Add steps: For each step, choose the channel, write or select the message and set the delay before it sends. Repeat for all messages in the sequence.
+
+Add exit conditions: Optionally stop the campaign when a contact completes a goal (like making a purchase).
+
+Activate: Click Create campaign. The campaign sends messages automatically according to your schedule.

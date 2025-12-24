@@ -1,0 +1,11 @@
+Add a loyalty event:
+
+Open Plan Configurations: Click the Loyalty icon, then choose Plan Configurations.
+
+Go to Earnings: Make sure you’re on the Earnings tab and click Create event.
+
+Define the event: Enter a name for the action you want customers to take (e.g., “Add birthday”) and assign how many points it awards. Pick an icon to represent it.
+
+Set conditions: Decide if the event should have limits (e.g., only once per month).
+
+Save: Click Add event. The event will now award points automatically when triggered.

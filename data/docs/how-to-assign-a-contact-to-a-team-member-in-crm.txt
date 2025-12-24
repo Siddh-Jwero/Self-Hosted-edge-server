@@ -1,0 +1,7 @@
+Assign a contact to a team member:
+
+Open the contact record: Locate and open the contact as described above.
+
+Change the owner: In the Owner field at the top, click the current owner’s name. Choose a new owner from the drop‑down list.
+
+Save automatically: The change is saved immediately. Consider leaving a note or task to inform the new owner.

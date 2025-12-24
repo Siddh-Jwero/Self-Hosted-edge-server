@@ -1,0 +1,7 @@
+Change contact stages in the pipeline:
+
+Open Contact stages: Under Settings, click Contact stages.
+
+Add or edit stages: Use Add stage to create a new stage, drag and drop to reorder, or use the three‑dot menu to rename or delete a stage.
+
+Save and review: Changes apply immediately across your CRM.

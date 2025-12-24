@@ -1,0 +1,9 @@
+Create a short link:
+
+Open Short links: Under Automations, select Short links.
+
+New link: Click New short link. Paste the original URL, enter a title and customise the slug.
+
+Advanced options: Optionally add UTM parameters, tags or an expiry date.
+
+Create: Click Create. Copy the generated short link and use it in your campaigns.

@@ -1,0 +1,9 @@
+Create a task:
+
+Open Tasks: Click the Tasks icon (checkmark inside a circle).
+
+Add a task: Click New task. Fill in the task name, assign a team member, set a due date/time and link a contact if applicable.
+
+Add details: Choose a reminder type (Call, Meeting, etc.) and write notes so the assignee knows what to do.
+
+Set status and create: Select the initial status (Pending, In progress or Completed) and click Create task. The task appears on the board for the assignee.

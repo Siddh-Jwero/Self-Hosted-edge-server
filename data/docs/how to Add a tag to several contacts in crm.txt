@@ -1,0 +1,7 @@
+Add a tag to several contacts:
+
+Select contacts: Use the checkboxes next to each contact in the list to choose multiple contacts.
+
+Open Actions menu: Click Actions (three dots) at the top of the list.
+
+Add the tag: Choose Add tag, select or create a tag, and click Add. The tag will be applied to all selected contacts.

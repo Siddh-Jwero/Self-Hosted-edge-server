@@ -1,0 +1,9 @@
+View and filter logs:
+
+Open Logs: Click the clock‑shaped Logs icon.
+
+Search: Use the search box to look for keywords, names or actions.
+
+Change date range: Use the date drop‑down to select a period like Last 7 days or Last month.
+
+Expand entries: Click a date to view all log entries for that day. Each entry shows who did what and when.

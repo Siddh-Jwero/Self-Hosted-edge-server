@@ -1,0 +1,9 @@
+Add a custom field:
+
+Open Custom fields: In Settings, choose Custom fields.
+
+Select a module: Choose where the field should appear (e.g., Lead Details).
+
+Create the field: Click Add custom field, choose a field type (Text, Number, Date, etc.), give it a label and description, and set whether it’s required.
+
+Save the field: Click Save. The field will be available when creating or editing contacts.

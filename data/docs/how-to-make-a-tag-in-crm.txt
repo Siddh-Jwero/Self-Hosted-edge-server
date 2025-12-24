@@ -1,0 +1,7 @@
+Make a tag:
+
+Open Tags: In Settings, select Tags.
+
+Add new: Click Add tag, type a name and choose a colour.
+
+Save: Click Save. You can now tag contacts manually or via automations.

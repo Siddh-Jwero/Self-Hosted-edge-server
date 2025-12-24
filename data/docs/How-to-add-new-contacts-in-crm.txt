@@ -1,0 +1,15 @@
+Add a new contact:
+
+Open the Contacts page: Click the Contacts icon (two people) on the left navigation bar to see your list of leads and customers.
+
+Create a contact: Click the blue Add contact button at the top‑right. A form opens where you can enter details.
+
+Select contact type: Choose the type of contact (Lead, Customer, Supplier, Distributor or CG) from the at the top.
+
+Enter personal details: Fill in the person’s first name, last name, email address, company and branch if applicable.
+
+Add phone numbers: Enter the mobile number with the correct country code. Tick the box if the same number will be used for WhatsApp. If not, enter the WhatsApp number separately.
+
+Complete extra fields: Upload a profile picture and fill any optional fields your organisation uses.
+
+Save the record: Click Add contact at the bottom of the form. The new contact appears in your list.

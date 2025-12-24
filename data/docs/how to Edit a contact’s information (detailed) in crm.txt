@@ -1,0 +1,15 @@
+Edit a contact’s information (detailed):
+
+This is a more detailed version of the earlier guide:
+
+Search for the contact: In the Contacts list, type the contact’s name or email in the search bar. Results update as you type.
+
+Open the profile: Click on the contact’s name. Tabs such as Personal Information, Activities and Notes appear.
+
+Locate the field to edit: Under Personal Information, find the specific field (e.g., mobile number). Next to it is an Edit (pencil) icon—click it.
+
+Enter the new data: Type the updated information. For phone numbers, include the correct dial code.
+
+Save your changes: Click Save or Update. The new information appears immediately.
+
+Repeat for other fields: Continue editing other fields as necessary.

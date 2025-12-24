@@ -1,0 +1,9 @@
+Connect your email service:
+
+Open Integrations: In Settings, click Integrations.
+
+Find Email: Click Connect on the Email card.
+
+Enter credentials: Choose your provider (SendGrid, SMTP, Gmail, etc.) and enter the required details such as API key or SMTP settings.
+
+Test and save: Send a test email to confirm the setup. When successful, the card shows Connected.

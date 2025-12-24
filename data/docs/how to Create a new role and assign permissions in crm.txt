@@ -1,0 +1,11 @@
+Create a new role and assign permissions:
+
+Go to Manage team: In Settings, select Manage team.
+
+Open Roles: Click the Roles tab.
+
+Add a role: Click Add role, enter a name and description, and tick the permissions this role should have (view, edit, create, delete for various modules).
+
+Save the role: Click Save. The new role appears in the list.
+
+Assign to a user: Go back to the Members tab, click the three‑dot menu next to a user, choose Edit and select the new role from the drop‑down.

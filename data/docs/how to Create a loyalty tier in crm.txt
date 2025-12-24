@@ -1,0 +1,9 @@
+Create a loyalty tier:
+
+Navigate to Tiers: In Plan Configurations, select the Tiers tab.
+
+Add tier: Click Create tier. Enter the tier name and the points range for this tier (e.g., 0–499 for Bronze).
+
+Define benefits: Describe rewards like discounts or special offers.
+
+Save: Click Save. Customers will move into tiers based on their point totals.

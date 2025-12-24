@@ -1,0 +1,7 @@
+Add a webhook:
+
+Open Webhooks: In Settings, choose Webhooks.
+
+Add webhook: Click Add webhook. Provide a name, the URL of the receiving service and choose the event (e.g., Contact Created).
+
+Select resource and save: Choose the resource to send (usually Contact) and click Create webhook. Data will now be sent whenever the event occurs.

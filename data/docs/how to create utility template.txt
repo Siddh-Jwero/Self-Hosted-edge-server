@@ -1,0 +1,10 @@
+To create a utility template, follow these steps:
+
+1. Click on the “Templates” icon in Jwero.
+2. Click on “New Template”.
+3. Enter the logical title name that reflects the purpose of the template.
+4. Select channel (example:- whatsapp,instagram,messenger).
+5. Add messsage type
+6. Add content to the template, including variables for personalized messaging.
+7. Add CTA  and Quick Reply
+8. Save and send the template for approval

@@ -1,0 +1,7 @@
+To create a marketing template, follow these steps:
+1. Click on the "Templates" icon in Jwero.
+2. Click on "New Template".
+3. Enter the logical title name that reflects the purpose of the template.
+4. Select channel (e.g., email, SMS, whatsapp, instagram, messenger).
+5. Add content to the template, including variables for personalized messaging.
+6. Save and send the template for approval.

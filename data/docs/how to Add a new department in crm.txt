@@ -1,0 +1,7 @@
+Add a new department:
+
+Open Departments: Under Manage team, go to the Departments tab.
+
+Add department: Click Add department, enter a name and description and click Save.
+
+Assign members: To assign team members, go to Members, edit a user and choose the department.
