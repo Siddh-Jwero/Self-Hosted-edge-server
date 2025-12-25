@@ -47,6 +47,34 @@ evaluate the main project.
 - **Memory:** 8–16 GB RAM
 - **Storage:** SSD
 
+## Bill of Materials (BOM)
+
+| Item | Description | Estimated Cost |
+|-----|------------|----------------|
+| LattePanda 3 Delta | x86 single-board computer | $260 |
+| SSD (NVMe/SATA) | Storage for OS, models, and data | $60–95 |
+| Power Adapter | Compatible power supply | $5 |
+| Cables & Misc | HDMI / USB / Ethernet | $10 |
+
+**Total estimated cost:** Under $400
+
+
+## Reference Links
+
+- LattePanda 3 Delta (x86 SBC): https://www.dfrobot.com/product-2594.html
+- NVMe SSD (supported): https://www.amazon.com/dp/B0CHJY78QB
+- Power Adapter: https://www.dfrobot.com/product-2624.html
+
+This hardware is used as a compact, always-on edge server and does not
+require any hardware modification or fabrication.
+
+## Project Status
+
+This project has been fully implemented and can be run locally on the
+target hardware. The repository includes all required code, setup
+instructions, and documentation to reproduce the system.
+
+
 ## Key Goals
 
 - Operate fully offline
